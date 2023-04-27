@@ -20,3 +20,5 @@ https://symfony.com/doc/current/setup.html
 
 8- run `npm i && symfony run -d npm run watch` to install dependencies and run the watch in background.
 
+9- some refactorings
+
